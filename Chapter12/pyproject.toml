@@ -26,7 +26,7 @@ langchain-community = "^0.3.21"
 langchain-experimental = "^0.3.4"
 langchain-neo4j = "^0.4.0"
 langchain-openai = "^0.3.12"
-transformers = {extras = ["torch"], version = "^4.50.3"}
+transformers = {extras = ["torch"], version = "^4.53.0"}
 
 
 [build-system]
